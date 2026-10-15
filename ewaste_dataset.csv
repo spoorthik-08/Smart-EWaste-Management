@@ -1,0 +1,801 @@
+Date,Location,Category,Condition,Age_Years,Quantity,Weight_kg,Recommended_Action
+2024-01-04,Area E,Charger,Damaged,11,8,1.02,Recycle
+2024-01-04,Area E,Monitor,Repairable,2,2,8.67,Repair
+2024-01-05,Area E,Laptop,Repairable,7,4,7.73,Repair
+2024-01-06,Area B,Tablet,Damaged,6,6,3.01,Recycle
+2024-01-06,Area C,Tablet,Repairable,4,1,0.57,Repair
+2024-01-06,Area A,Tablet,Damaged,9,4,1.87,Recycle
+2024-01-08,Area C,Tablet,Damaged,4,2,0.96,Recycle
+2024-01-09,Area A,Mobile Phone,Working,6,5,0.92,Recycle
+2024-01-11,Area E,Tablet,Repairable,9,3,1.3,Recycle
+2024-01-14,Area B,Mobile Phone,Working,10,4,0.65,Recycle
+2024-01-14,Area A,Monitor,Working,10,3,11.53,Recycle
+2024-01-15,Area A,Monitor,Repairable,3,5,23.1,Repair
+2024-01-16,Area B,Television,Working,6,1,9.19,Recycle
+2024-01-16,Area E,Battery,Repairable,10,7,4.51,Recycle
+2024-01-17,Area B,Laptop,Repairable,9,5,9.79,Recycle
+2024-01-17,Area A,Mobile Phone,Working,2,6,1.44,Reuse
+2024-01-17,Area C,Tablet,Damaged,10,8,4.55,Recycle
+2024-01-19,Area A,Monitor,Repairable,7,6,22.28,Repair
+2024-01-19,Area C,Laptop,Damaged,11,7,15.75,Recycle
+2024-01-23,Area E,Laptop,Working,1,3,5.71,Reuse
+2024-01-24,Area B,Battery,Working,10,4,2.84,Recycle
+2024-01-24,Area C,Monitor,Working,4,5,21.82,Reuse
+2024-01-26,Area E,Mobile Phone,Working,3,2,0.36,Reuse
+2024-01-26,Area D,Tablet,Damaged,8,4,2.38,Recycle
+2024-01-28,Area C,Charger,Repairable,2,4,0.51,Repair
+2024-01-28,Area B,Television,Working,8,1,6.87,Recycle
+2024-01-31,Area D,Mobile Phone,Working,6,4,0.91,Recycle
+2024-02-01,Area C,Mobile Phone,Repairable,7,4,0.95,Repair
+2024-02-02,Area A,Monitor,Repairable,3,4,16.24,Repair
+2024-02-02,Area A,Charger,Working,5,3,0.47,Reuse
+2024-02-02,Area C,Television,Damaged,7,5,43.58,Recycle
+2024-02-06,Area D,Battery,Damaged,2,8,7.5,Recycle
+2024-02-06,Area B,Television,Working,4,3,21.67,Reuse
+2024-02-07,Area A,Tablet,Damaged,10,6,3.13,Recycle
+2024-02-09,Area C,Tablet,Repairable,12,7,3.39,Recycle
+2024-02-10,Area C,Mobile Phone,Damaged,4,6,1.07,Recycle
+2024-02-12,Area D,Laptop,Working,10,4,7.34,Recycle
+2024-02-14,Area C,Tablet,Damaged,8,6,2.79,Recycle
+2024-02-16,Area A,Monitor,Repairable,7,1,4.73,Repair
+2024-02-17,Area E,Battery,Repairable,5,6,5.27,Repair
+2024-02-18,Area A,Charger,Working,4,1,0.17,Reuse
+2024-02-19,Area A,Mobile Phone,Working,9,4,0.79,Recycle
+2024-02-19,Area D,Mobile Phone,Repairable,6,3,0.64,Repair
+2024-02-22,Area E,Laptop,Damaged,4,4,7.09,Recycle
+2024-02-25,Area C,Television,Working,2,6,49.75,Reuse
+2024-02-27,Area A,Television,Working,2,1,9.32,Reuse
+2024-02-27,Area C,Battery,Repairable,8,4,2.81,Repair
+2024-02-29,Area A,Battery,Working,1,3,2.28,Reuse
+2024-03-01,Area C,Monitor,Working,10,7,26.22,Recycle
+2024-03-02,Area A,Battery,Damaged,3,5,4.18,Recycle
+2024-03-02,Area D,Monitor,Working,6,8,28.44,Recycle
+2024-03-02,Area D,Laptop,Working,9,3,6.92,Recycle
+2024-03-03,Area D,Television,Repairable,12,3,24.54,Recycle
+2024-03-04,Area A,Television,Working,9,7,52.73,Recycle
+2024-03-05,Area A,Mobile Phone,Repairable,2,8,1.36,Repair
+2024-03-05,Area C,Charger,Repairable,10,4,0.7,Recycle
+2024-03-06,Area C,Mobile Phone,Damaged,12,3,0.62,Recycle
+2024-03-06,Area E,Battery,Repairable,8,6,4.73,Repair
+2024-03-06,Area D,Battery,Working,3,3,2.46,Reuse
+2024-03-07,Area B,Battery,Repairable,3,6,5.13,Repair
+2024-03-07,Area C,Laptop,Repairable,3,6,12.91,Repair
+2024-03-08,Area B,Television,Repairable,9,3,24.83,Recycle
+2024-03-09,Area B,Tablet,Repairable,1,2,1.05,Repair
+2024-03-09,Area E,Tablet,Damaged,3,1,0.59,Recycle
+2024-03-10,Area E,Battery,Damaged,9,5,3.77,Recycle
+2024-03-10,Area E,Battery,Repairable,6,7,5.77,Repair
+2024-03-10,Area C,Monitor,Working,10,2,7.02,Recycle
+2024-03-10,Area B,Laptop,Repairable,6,7,15.25,Repair
+2024-03-10,Area E,Monitor,Repairable,12,1,3.47,Recycle
+2024-03-11,Area C,Television,Damaged,11,3,27.46,Recycle
+2024-03-12,Area D,Mobile Phone,Repairable,2,3,0.67,Repair
+2024-03-13,Area D,Battery,Working,1,3,2.45,Reuse
+2024-03-15,Area C,Television,Repairable,6,3,27.6,Repair
+2024-03-16,Area C,Monitor,Working,1,1,4.1,Reuse
+2024-03-17,Area E,Battery,Repairable,4,7,4.83,Repair
+2024-03-18,Area E,Monitor,Damaged,6,6,23.6,Recycle
+2024-03-18,Area E,Battery,Working,12,3,1.94,Recycle
+2024-03-19,Area E,Battery,Repairable,2,2,1.34,Repair
+2024-03-19,Area B,Mobile Phone,Working,4,4,0.9,Reuse
+2024-03-20,Area C,Tablet,Repairable,9,5,2.0,Recycle
+2024-03-20,Area C,Mobile Phone,Working,5,5,1.06,Reuse
+2024-03-24,Area A,Monitor,Working,2,6,22.89,Reuse
+2024-03-24,Area A,Charger,Repairable,1,1,0.13,Repair
+2024-03-25,Area C,Television,Working,10,5,33.16,Recycle
+2024-03-25,Area B,Battery,Repairable,7,6,4.0,Repair
+2024-03-26,Area E,Mobile Phone,Working,7,4,0.7,Recycle
+2024-03-27,Area C,Laptop,Repairable,2,3,5.4,Repair
+2024-03-27,Area B,Laptop,Working,4,3,7.14,Reuse
+2024-03-27,Area D,Monitor,Damaged,12,6,22.7,Recycle
+2024-03-27,Area C,Battery,Working,12,1,0.77,Recycle
+2024-03-28,Area C,Laptop,Damaged,6,1,1.96,Recycle
+2024-03-30,Area E,Battery,Damaged,3,6,5.17,Recycle
+2024-03-30,Area A,Television,Repairable,9,3,23.92,Recycle
+2024-03-30,Area C,Monitor,Repairable,5,2,8.31,Repair
+2024-03-30,Area B,Battery,Working,9,7,4.87,Recycle
+2024-03-31,Area D,Battery,Working,6,8,6.77,Recycle
+2024-04-02,Area A,Battery,Damaged,1,6,3.89,Recycle
+2024-04-03,Area A,Mobile Phone,Damaged,7,1,0.23,Recycle
+2024-04-03,Area A,Mobile Phone,Repairable,6,2,0.4,Repair
+2024-04-03,Area A,Tablet,Repairable,2,4,2.33,Repair
+2024-04-04,Area B,Charger,Damaged,11,6,0.95,Recycle
+2024-04-04,Area E,Mobile Phone,Repairable,5,8,1.61,Repair
+2024-04-05,Area D,Monitor,Repairable,10,1,4.52,Recycle
+2024-04-06,Area D,Mobile Phone,Working,9,4,0.78,Recycle
+2024-04-06,Area C,Tablet,Repairable,1,6,2.45,Repair
+2024-04-06,Area C,Tablet,Repairable,12,6,2.93,Recycle
+2024-04-08,Area C,Battery,Working,1,7,6.15,Reuse
+2024-04-10,Area E,Mobile Phone,Working,3,2,0.34,Reuse
+2024-04-11,Area C,Tablet,Working,12,5,2.16,Recycle
+2024-04-12,Area C,Monitor,Working,5,2,7.13,Reuse
+2024-04-12,Area C,Tablet,Repairable,6,3,1.52,Repair
+2024-04-12,Area B,Television,Damaged,11,8,57.21,Recycle
+2024-04-12,Area C,Charger,Repairable,10,3,0.45,Recycle
+2024-04-12,Area A,Laptop,Damaged,11,7,13.82,Recycle
+2024-04-12,Area B,Charger,Working,12,3,0.49,Recycle
+2024-04-12,Area B,Tablet,Repairable,8,1,0.42,Repair
+2024-04-13,Area A,Television,Repairable,3,1,7.66,Repair
+2024-04-15,Area B,Mobile Phone,Repairable,7,1,0.21,Repair
+2024-04-15,Area E,Monitor,Repairable,9,2,8.74,Recycle
+2024-04-15,Area E,Tablet,Repairable,11,3,1.76,Recycle
+2024-04-16,Area C,Laptop,Repairable,7,6,9.64,Repair
+2024-04-18,Area B,Monitor,Repairable,3,2,8.32,Repair
+2024-04-18,Area D,Laptop,Damaged,7,5,10.64,Recycle
+2024-04-20,Area B,Monitor,Repairable,9,8,30.7,Recycle
+2024-04-20,Area C,Mobile Phone,Working,9,8,1.84,Recycle
+2024-04-21,Area B,Charger,Damaged,10,3,0.51,Recycle
+2024-04-22,Area D,Mobile Phone,Damaged,3,5,0.84,Recycle
+2024-04-22,Area D,Mobile Phone,Repairable,11,5,0.95,Recycle
+2024-04-22,Area B,Tablet,Damaged,3,5,2.47,Recycle
+2024-04-23,Area A,Battery,Repairable,5,6,4.92,Repair
+2024-04-25,Area B,Mobile Phone,Working,3,3,0.52,Reuse
+2024-04-27,Area E,Television,Damaged,12,7,47.17,Recycle
+2024-04-27,Area A,Monitor,Damaged,5,6,21.49,Recycle
+2024-04-27,Area A,Charger,Repairable,7,6,1.03,Repair
+2024-04-30,Area D,Charger,Repairable,7,7,1.04,Repair
+2024-04-30,Area E,Battery,Working,3,3,2.88,Reuse
+2024-04-30,Area C,Monitor,Damaged,8,3,9.76,Recycle
+2024-05-01,Area C,Charger,Working,10,3,0.42,Recycle
+2024-05-01,Area C,Mobile Phone,Working,8,7,1.35,Recycle
+2024-05-01,Area D,Monitor,Repairable,11,2,7.06,Recycle
+2024-05-02,Area D,Laptop,Repairable,7,5,11.84,Repair
+2024-05-02,Area A,Battery,Working,4,2,1.34,Reuse
+2024-05-03,Area C,Battery,Repairable,2,5,4.42,Repair
+2024-05-04,Area E,Charger,Repairable,12,2,0.29,Recycle
+2024-05-05,Area C,Battery,Repairable,1,7,6.18,Repair
+2024-05-07,Area E,Charger,Damaged,7,1,0.12,Recycle
+2024-05-07,Area C,Charger,Repairable,6,5,0.65,Repair
+2024-05-08,Area C,Battery,Repairable,11,5,3.37,Recycle
+2024-05-08,Area A,Battery,Damaged,12,8,7.63,Recycle
+2024-05-09,Area C,Monitor,Damaged,7,7,29.1,Recycle
+2024-05-09,Area B,Battery,Repairable,4,1,0.72,Repair
+2024-05-11,Area B,Television,Repairable,6,4,38.31,Repair
+2024-05-11,Area E,Laptop,Repairable,4,7,11.62,Repair
+2024-05-12,Area B,Charger,Repairable,4,7,1.05,Repair
+2024-05-12,Area D,Laptop,Working,8,2,4.15,Recycle
+2024-05-12,Area D,Tablet,Repairable,6,8,4.69,Repair
+2024-05-13,Area E,Battery,Working,2,1,0.96,Reuse
+2024-05-13,Area A,Mobile Phone,Working,10,5,1.11,Recycle
+2024-05-17,Area E,Television,Working,6,8,72.04,Recycle
+2024-05-18,Area A,Laptop,Working,5,7,16.04,Reuse
+2024-05-20,Area C,Television,Working,10,5,34.58,Recycle
+2024-05-22,Area E,Monitor,Working,9,4,17.41,Recycle
+2024-05-22,Area C,Mobile Phone,Repairable,12,8,1.8,Recycle
+2024-05-23,Area D,Tablet,Repairable,7,3,1.41,Repair
+2024-05-26,Area E,Mobile Phone,Working,4,8,1.72,Reuse
+2024-05-26,Area C,Tablet,Damaged,9,7,3.83,Recycle
+2024-05-27,Area E,Monitor,Repairable,5,5,23.45,Repair
+2024-05-27,Area C,Battery,Repairable,6,2,1.49,Repair
+2024-05-27,Area D,Mobile Phone,Damaged,2,3,0.64,Recycle
+2024-05-27,Area A,Mobile Phone,Working,8,4,0.92,Recycle
+2024-05-28,Area B,Monitor,Working,7,6,25.98,Recycle
+2024-06-01,Area A,Monitor,Working,3,7,30.48,Reuse
+2024-06-05,Area E,Battery,Damaged,4,7,5.46,Recycle
+2024-06-12,Area A,Monitor,Damaged,6,4,13.44,Recycle
+2024-06-14,Area B,Monitor,Working,3,5,17.54,Reuse
+2024-06-15,Area D,Laptop,Repairable,3,5,10.87,Repair
+2024-06-15,Area E,Battery,Working,9,6,4.46,Recycle
+2024-06-16,Area E,Monitor,Damaged,9,5,22.99,Recycle
+2024-06-17,Area C,Monitor,Repairable,3,4,17.54,Repair
+2024-06-19,Area E,Monitor,Repairable,11,4,13.7,Recycle
+2024-06-19,Area A,Mobile Phone,Damaged,2,3,0.53,Recycle
+2024-06-20,Area D,Mobile Phone,Damaged,2,7,1.22,Recycle
+2024-06-21,Area C,Television,Working,1,4,29.06,Reuse
+2024-06-21,Area A,Battery,Working,3,7,5.86,Reuse
+2024-06-21,Area E,Monitor,Repairable,2,7,31.19,Repair
+2024-06-22,Area E,Mobile Phone,Repairable,5,3,0.61,Repair
+2024-06-22,Area E,Monitor,Damaged,11,8,32.87,Recycle
+2024-06-23,Area B,Laptop,Working,4,1,1.96,Reuse
+2024-06-24,Area D,Television,Working,3,5,40.84,Reuse
+2024-06-24,Area B,Tablet,Working,4,1,0.46,Reuse
+2024-06-25,Area D,Television,Working,4,5,37.62,Reuse
+2024-06-27,Area E,Laptop,Damaged,4,7,16.02,Recycle
+2024-06-28,Area A,Laptop,Working,4,2,4.08,Reuse
+2024-06-30,Area A,Laptop,Repairable,10,5,8.23,Recycle
+2024-07-01,Area D,Charger,Repairable,6,3,0.53,Repair
+2024-07-01,Area C,Television,Working,9,6,43.84,Recycle
+2024-07-02,Area D,Battery,Repairable,3,7,5.71,Repair
+2024-07-04,Area E,Television,Repairable,12,7,45.86,Recycle
+2024-07-06,Area E,Television,Working,8,5,44.52,Recycle
+2024-07-09,Area B,Laptop,Repairable,1,2,4.62,Repair
+2024-07-10,Area B,Mobile Phone,Working,1,8,1.37,Reuse
+2024-07-11,Area A,Monitor,Damaged,8,2,8.53,Recycle
+2024-07-13,Area B,Tablet,Repairable,5,7,3.0,Repair
+2024-07-13,Area D,Television,Repairable,10,5,33.46,Recycle
+2024-07-14,Area D,Television,Repairable,8,8,60.96,Repair
+2024-07-15,Area A,Battery,Working,6,3,2.81,Recycle
+2024-07-16,Area A,Television,Working,12,3,19.81,Recycle
+2024-07-17,Area B,Mobile Phone,Damaged,7,1,0.16,Recycle
+2024-07-18,Area A,Monitor,Working,5,8,31.93,Reuse
+2024-07-19,Area D,Charger,Damaged,12,1,0.14,Recycle
+2024-07-20,Area A,Tablet,Working,10,4,2.24,Recycle
+2024-07-21,Area B,Tablet,Working,2,2,0.94,Reuse
+2024-07-21,Area B,Monitor,Damaged,7,1,3.94,Recycle
+2024-07-21,Area A,Mobile Phone,Repairable,11,3,0.58,Recycle
+2024-07-23,Area C,Television,Repairable,8,3,25.86,Repair
+2024-07-24,Area E,Battery,Working,12,5,4.0,Recycle
+2024-07-24,Area C,Monitor,Working,4,1,4.29,Reuse
+2024-07-24,Area C,Battery,Damaged,2,1,0.68,Recycle
+2024-07-25,Area B,Television,Repairable,7,4,27.24,Repair
+2024-07-27,Area D,Monitor,Damaged,12,7,32.28,Recycle
+2024-07-27,Area B,Mobile Phone,Damaged,2,1,0.19,Recycle
+2024-07-28,Area A,Tablet,Damaged,9,8,3.8,Recycle
+2024-07-29,Area B,Monitor,Repairable,9,4,13.84,Recycle
+2024-07-29,Area E,Charger,Damaged,10,5,0.76,Recycle
+2024-07-29,Area C,Television,Repairable,6,4,29.05,Repair
+2024-07-30,Area D,Tablet,Working,5,3,1.79,Reuse
+2024-07-31,Area E,Battery,Damaged,7,4,3.64,Recycle
+2024-08-02,Area C,Battery,Working,9,8,7.55,Recycle
+2024-08-03,Area A,Charger,Damaged,3,7,1.1,Recycle
+2024-08-03,Area E,Laptop,Repairable,5,2,3.82,Repair
+2024-08-04,Area D,Monitor,Repairable,6,6,23.37,Repair
+2024-08-05,Area C,Charger,Repairable,8,4,0.48,Repair
+2024-08-06,Area D,Television,Working,12,5,45.4,Recycle
+2024-08-07,Area C,Laptop,Working,11,3,5.75,Recycle
+2024-08-07,Area E,Monitor,Working,12,3,11.68,Recycle
+2024-08-08,Area A,Laptop,Working,11,6,13.88,Recycle
+2024-08-08,Area C,Monitor,Damaged,9,8,30.75,Recycle
+2024-08-10,Area D,Tablet,Working,3,8,4.14,Reuse
+2024-08-11,Area C,Mobile Phone,Working,12,2,0.39,Recycle
+2024-08-13,Area D,Television,Repairable,12,7,63.23,Recycle
+2024-08-14,Area C,Monitor,Working,1,7,28.62,Reuse
+2024-08-14,Area A,Laptop,Damaged,12,4,8.29,Recycle
+2024-08-14,Area D,Charger,Damaged,8,6,1.0,Recycle
+2024-08-16,Area B,Television,Working,12,7,64.03,Recycle
+2024-08-16,Area B,Laptop,Working,3,8,17.94,Reuse
+2024-08-17,Area C,Monitor,Damaged,5,3,13.02,Recycle
+2024-08-17,Area A,Tablet,Repairable,8,3,1.34,Repair
+2024-08-18,Area B,Tablet,Damaged,1,7,3.04,Recycle
+2024-08-18,Area C,Battery,Repairable,2,2,1.71,Repair
+2024-08-18,Area B,Monitor,Damaged,9,4,13.79,Recycle
+2024-08-19,Area A,Battery,Repairable,2,3,2.43,Repair
+2024-08-20,Area B,Tablet,Working,1,7,2.88,Reuse
+2024-08-20,Area E,Tablet,Working,4,5,2.91,Reuse
+2024-08-22,Area D,Laptop,Damaged,11,5,10.25,Recycle
+2024-08-22,Area C,Tablet,Damaged,2,4,1.65,Recycle
+2024-08-22,Area E,Mobile Phone,Repairable,10,6,1.21,Recycle
+2024-08-22,Area A,Charger,Damaged,8,4,0.49,Recycle
+2024-08-24,Area D,Battery,Damaged,2,2,1.66,Recycle
+2024-08-26,Area C,Charger,Damaged,8,3,0.49,Recycle
+2024-08-27,Area D,Laptop,Repairable,3,3,4.95,Repair
+2024-08-28,Area A,Mobile Phone,Repairable,6,4,0.95,Repair
+2024-08-29,Area C,Tablet,Working,5,3,1.65,Reuse
+2024-08-29,Area B,Television,Repairable,1,8,54.86,Repair
+2024-08-30,Area D,Battery,Working,9,1,0.96,Recycle
+2024-08-31,Area E,Mobile Phone,Damaged,6,3,0.49,Recycle
+2024-09-01,Area A,Tablet,Repairable,6,5,2.65,Repair
+2024-09-01,Area E,Tablet,Repairable,2,5,2.02,Repair
+2024-09-02,Area C,Charger,Repairable,10,5,0.65,Recycle
+2024-09-04,Area A,Tablet,Damaged,1,8,4.71,Recycle
+2024-09-04,Area B,Charger,Working,5,1,0.14,Reuse
+2024-09-07,Area E,Television,Repairable,6,5,33.42,Repair
+2024-09-10,Area B,Charger,Repairable,4,8,0.99,Repair
+2024-09-11,Area B,Television,Damaged,11,8,51.52,Recycle
+2024-09-16,Area E,Mobile Phone,Repairable,7,1,0.2,Repair
+2024-09-18,Area B,Mobile Phone,Repairable,8,8,1.92,Repair
+2024-09-20,Area D,Television,Damaged,3,4,33.29,Recycle
+2024-09-21,Area D,Television,Working,3,1,6.8,Reuse
+2024-09-22,Area E,Television,Working,1,3,25.81,Reuse
+2024-09-23,Area B,Charger,Repairable,9,3,0.48,Recycle
+2024-09-23,Area E,Tablet,Damaged,2,7,3.7,Recycle
+2024-09-24,Area E,Monitor,Repairable,2,3,11.41,Repair
+2024-09-24,Area A,Monitor,Working,10,6,23.15,Recycle
+2024-09-25,Area B,Mobile Phone,Damaged,9,6,1.0,Recycle
+2024-09-25,Area E,Tablet,Working,7,2,1.14,Recycle
+2024-09-25,Area E,Laptop,Damaged,12,1,2.19,Recycle
+2024-09-27,Area A,Monitor,Damaged,9,4,16.6,Recycle
+2024-09-28,Area B,Charger,Repairable,4,1,0.13,Repair
+2024-09-28,Area B,Charger,Repairable,1,3,0.41,Repair
+2024-09-30,Area B,Charger,Working,5,4,0.53,Reuse
+2024-09-30,Area C,Laptop,Damaged,4,7,11.47,Recycle
+2024-09-30,Area D,Tablet,Working,3,7,3.95,Reuse
+2024-10-02,Area E,Tablet,Repairable,8,1,0.52,Repair
+2024-10-04,Area A,Laptop,Working,11,2,3.62,Recycle
+2024-10-04,Area D,Television,Working,8,2,14.27,Recycle
+2024-10-05,Area C,Battery,Working,9,2,1.39,Recycle
+2024-10-07,Area D,Monitor,Repairable,9,2,6.58,Recycle
+2024-10-08,Area C,Monitor,Damaged,6,5,21.59,Recycle
+2024-10-10,Area B,Tablet,Working,4,4,2.34,Reuse
+2024-10-14,Area C,Battery,Damaged,10,1,0.89,Recycle
+2024-10-17,Area E,Mobile Phone,Working,8,3,0.49,Recycle
+2024-10-21,Area E,Charger,Repairable,7,2,0.25,Repair
+2024-10-22,Area E,Battery,Damaged,12,5,3.31,Recycle
+2024-10-24,Area A,Laptop,Working,10,2,4.03,Recycle
+2024-10-24,Area C,Laptop,Damaged,1,8,14.11,Recycle
+2024-10-25,Area C,Television,Repairable,8,4,28.8,Repair
+2024-10-26,Area C,Monitor,Working,1,5,21.97,Reuse
+2024-10-26,Area E,Battery,Working,9,2,1.85,Recycle
+2024-10-27,Area A,Monitor,Working,7,7,24.88,Recycle
+2024-10-28,Area D,Television,Repairable,8,6,40.1,Repair
+2024-10-30,Area E,Charger,Damaged,7,2,0.34,Recycle
+2024-10-31,Area D,Charger,Repairable,3,1,0.15,Repair
+2024-10-31,Area C,Battery,Working,10,3,2.86,Recycle
+2024-10-31,Area D,Battery,Damaged,4,1,0.85,Recycle
+2024-11-01,Area C,Television,Damaged,4,1,8.26,Recycle
+2024-11-01,Area A,Tablet,Damaged,2,6,3.12,Recycle
+2024-11-02,Area C,Monitor,Damaged,12,6,20.2,Recycle
+2024-11-02,Area E,Mobile Phone,Working,1,6,1.39,Reuse
+2024-11-05,Area D,Television,Damaged,8,3,27.52,Recycle
+2024-11-07,Area E,Mobile Phone,Repairable,10,3,0.58,Recycle
+2024-11-09,Area C,Monitor,Repairable,6,5,18.6,Repair
+2024-11-11,Area E,Tablet,Repairable,8,4,1.62,Repair
+2024-11-11,Area D,Charger,Damaged,7,4,0.64,Recycle
+2024-11-11,Area A,Mobile Phone,Repairable,8,1,0.18,Repair
+2024-11-12,Area C,Tablet,Damaged,2,5,2.39,Recycle
+2024-11-12,Area E,Monitor,Working,4,7,31.42,Reuse
+2024-11-13,Area E,Laptop,Working,10,3,5.41,Recycle
+2024-11-13,Area A,Charger,Working,12,5,0.81,Recycle
+2024-11-13,Area C,Television,Repairable,4,3,22.36,Repair
+2024-11-13,Area C,Monitor,Damaged,12,2,7.31,Recycle
+2024-11-14,Area A,Tablet,Working,9,4,1.66,Recycle
+2024-11-14,Area E,Mobile Phone,Working,5,6,1.42,Reuse
+2024-11-15,Area E,Monitor,Repairable,10,3,10.73,Recycle
+2024-11-15,Area A,Television,Working,11,5,40.16,Recycle
+2024-11-16,Area B,Laptop,Damaged,12,5,9.33,Recycle
+2024-11-16,Area D,Monitor,Damaged,6,7,22.76,Recycle
+2024-11-16,Area E,Tablet,Repairable,2,4,2.31,Repair
+2024-11-17,Area A,Tablet,Working,2,6,2.6,Reuse
+2024-11-18,Area B,Laptop,Damaged,5,1,1.83,Recycle
+2024-11-19,Area C,Charger,Working,7,5,0.88,Recycle
+2024-11-20,Area A,Mobile Phone,Working,11,4,0.88,Recycle
+2024-11-21,Area B,Laptop,Repairable,10,4,6.56,Recycle
+2024-11-21,Area A,Mobile Phone,Damaged,2,1,0.2,Recycle
+2024-11-22,Area B,Mobile Phone,Working,2,5,1.13,Reuse
+2024-11-22,Area C,Charger,Damaged,3,5,0.73,Recycle
+2024-11-22,Area A,Tablet,Repairable,7,3,1.74,Repair
+2024-11-24,Area A,Battery,Damaged,2,6,5.32,Recycle
+2024-11-25,Area E,Laptop,Repairable,11,5,11.31,Recycle
+2024-11-25,Area A,Tablet,Working,6,6,3.52,Recycle
+2024-11-27,Area A,Charger,Damaged,7,4,0.64,Recycle
+2024-11-28,Area E,Battery,Working,10,8,5.19,Recycle
+2024-11-29,Area C,Charger,Working,5,1,0.14,Reuse
+2024-11-29,Area E,Mobile Phone,Damaged,10,5,1.18,Recycle
+2024-11-30,Area C,Mobile Phone,Repairable,5,3,0.49,Repair
+2024-12-01,Area A,Tablet,Damaged,3,8,3.35,Recycle
+2024-12-01,Area E,Monitor,Working,11,1,3.35,Recycle
+2024-12-02,Area B,Charger,Damaged,2,8,1.09,Recycle
+2024-12-02,Area C,Tablet,Damaged,10,6,2.95,Recycle
+2024-12-03,Area C,Laptop,Repairable,7,3,6.29,Repair
+2024-12-04,Area C,Television,Repairable,3,1,6.66,Repair
+2024-12-04,Area C,Television,Damaged,6,3,27.74,Recycle
+2024-12-04,Area C,Mobile Phone,Damaged,8,7,1.53,Recycle
+2024-12-04,Area A,Battery,Damaged,12,4,3.26,Recycle
+2024-12-06,Area B,Charger,Damaged,11,4,0.71,Recycle
+2024-12-07,Area B,Charger,Repairable,1,2,0.27,Repair
+2024-12-07,Area E,Charger,Repairable,7,1,0.15,Repair
+2024-12-07,Area D,Laptop,Damaged,5,7,15.63,Recycle
+2024-12-09,Area D,Mobile Phone,Damaged,6,2,0.39,Recycle
+2024-12-09,Area A,Mobile Phone,Working,12,1,0.19,Recycle
+2024-12-10,Area D,Battery,Working,1,5,4.05,Reuse
+2024-12-10,Area D,Laptop,Repairable,8,3,6.3,Repair
+2024-12-12,Area C,Mobile Phone,Repairable,9,3,0.6,Recycle
+2024-12-13,Area A,Television,Damaged,9,6,39.06,Recycle
+2024-12-13,Area B,Tablet,Working,3,7,3.06,Reuse
+2024-12-13,Area B,Television,Damaged,12,1,6.56,Recycle
+2024-12-15,Area E,Tablet,Repairable,1,8,4.39,Repair
+2024-12-15,Area B,Charger,Repairable,11,7,0.86,Recycle
+2024-12-16,Area D,Charger,Working,3,1,0.13,Reuse
+2024-12-17,Area E,Television,Working,4,1,7.83,Reuse
+2024-12-18,Area E,Laptop,Working,3,7,14.01,Reuse
+2024-12-21,Area B,Tablet,Damaged,3,8,4.57,Recycle
+2024-12-22,Area B,Mobile Phone,Working,8,1,0.22,Recycle
+2024-12-23,Area E,Battery,Damaged,9,4,3.69,Recycle
+2024-12-23,Area B,Television,Working,6,4,28.74,Recycle
+2024-12-24,Area E,Television,Damaged,3,4,33.06,Recycle
+2024-12-25,Area D,Mobile Phone,Damaged,11,8,1.71,Recycle
+2024-12-26,Area B,Battery,Repairable,7,1,0.67,Repair
+2024-12-26,Area E,Mobile Phone,Repairable,3,3,0.61,Repair
+2024-12-27,Area E,Battery,Working,1,4,3.1,Reuse
+2024-12-27,Area C,Television,Working,2,3,23.58,Reuse
+2024-12-28,Area D,Charger,Working,10,1,0.12,Recycle
+2024-12-29,Area C,Battery,Working,3,1,0.84,Reuse
+2024-12-29,Area D,Television,Damaged,12,1,6.65,Recycle
+2024-12-30,Area C,Charger,Working,12,3,0.38,Recycle
+2024-12-30,Area D,Mobile Phone,Working,5,4,0.9,Reuse
+2024-12-31,Area D,Mobile Phone,Working,9,2,0.34,Recycle
+2025-01-01,Area C,Television,Working,5,4,37.46,Reuse
+2025-01-01,Area C,Tablet,Working,2,8,3.59,Reuse
+2025-01-02,Area A,Charger,Repairable,7,3,0.43,Repair
+2025-01-03,Area E,Television,Working,4,2,14.95,Reuse
+2025-01-04,Area E,Charger,Damaged,5,3,0.4,Recycle
+2025-01-04,Area E,Tablet,Repairable,3,2,0.99,Repair
+2025-01-04,Area C,Laptop,Damaged,9,7,14.57,Recycle
+2025-01-05,Area A,Television,Working,2,1,9.35,Reuse
+2025-01-06,Area B,Tablet,Repairable,12,6,2.65,Recycle
+2025-01-10,Area D,Tablet,Working,2,4,1.69,Reuse
+2025-01-10,Area B,Mobile Phone,Damaged,1,3,0.54,Recycle
+2025-01-11,Area A,Monitor,Damaged,10,3,13.27,Recycle
+2025-01-12,Area B,Monitor,Repairable,12,5,23.66,Recycle
+2025-01-13,Area C,Television,Working,1,8,55.28,Reuse
+2025-01-14,Area E,Mobile Phone,Damaged,4,7,1.65,Recycle
+2025-01-15,Area C,Mobile Phone,Repairable,7,8,1.39,Repair
+2025-01-15,Area B,Battery,Damaged,12,5,4.43,Recycle
+2025-01-15,Area C,Television,Repairable,7,8,75.6,Repair
+2025-01-17,Area D,Laptop,Working,12,7,12.63,Recycle
+2025-01-17,Area B,Laptop,Repairable,3,6,12.52,Repair
+2025-01-17,Area B,Monitor,Damaged,11,2,8.67,Recycle
+2025-01-19,Area E,Mobile Phone,Working,12,3,0.64,Recycle
+2025-01-22,Area B,Laptop,Working,12,3,7.06,Recycle
+2025-01-23,Area A,Laptop,Repairable,2,3,7.12,Repair
+2025-01-24,Area A,Mobile Phone,Working,9,2,0.4,Recycle
+2025-01-24,Area D,Battery,Working,6,5,3.56,Recycle
+2025-01-24,Area E,Charger,Working,1,7,1.15,Reuse
+2025-01-26,Area A,Laptop,Working,11,4,8.88,Recycle
+2025-01-26,Area B,Tablet,Repairable,5,1,0.53,Repair
+2025-01-27,Area B,Mobile Phone,Repairable,3,4,0.9,Repair
+2025-01-29,Area D,Monitor,Damaged,9,7,25.14,Recycle
+2025-01-31,Area D,Charger,Repairable,6,7,0.95,Repair
+2025-01-31,Area E,Battery,Working,1,6,5.2,Reuse
+2025-02-02,Area B,Tablet,Working,5,3,1.29,Reuse
+2025-02-02,Area D,Tablet,Damaged,9,6,3.16,Recycle
+2025-02-02,Area A,Battery,Repairable,12,8,7.36,Recycle
+2025-02-03,Area C,Television,Damaged,10,3,21.97,Recycle
+2025-02-03,Area B,Laptop,Damaged,3,7,14.59,Recycle
+2025-02-03,Area D,Battery,Damaged,5,2,1.28,Recycle
+2025-02-08,Area B,Charger,Repairable,11,8,1.27,Recycle
+2025-02-08,Area E,Charger,Working,6,1,0.16,Recycle
+2025-02-08,Area D,Laptop,Repairable,11,7,16.6,Recycle
+2025-02-09,Area C,Television,Working,8,2,13.99,Recycle
+2025-02-09,Area B,Charger,Damaged,2,8,1.39,Recycle
+2025-02-09,Area E,Mobile Phone,Damaged,6,1,0.24,Recycle
+2025-02-09,Area B,Tablet,Repairable,10,7,3.12,Recycle
+2025-02-09,Area B,Laptop,Repairable,1,3,5.57,Repair
+2025-02-10,Area A,Battery,Damaged,12,2,1.36,Recycle
+2025-02-11,Area B,Charger,Repairable,11,3,0.41,Recycle
+2025-02-12,Area A,Charger,Damaged,11,5,0.6,Recycle
+2025-02-16,Area B,Laptop,Repairable,10,2,4.28,Recycle
+2025-02-16,Area D,Television,Repairable,12,2,15.19,Recycle
+2025-02-17,Area A,Television,Working,8,1,8.38,Recycle
+2025-02-17,Area A,Tablet,Working,10,5,2.15,Recycle
+2025-02-18,Area D,Mobile Phone,Working,7,6,1.27,Recycle
+2025-02-19,Area B,Television,Damaged,11,4,36.31,Recycle
+2025-02-21,Area D,Charger,Working,5,2,0.26,Reuse
+2025-02-21,Area A,Tablet,Damaged,12,7,3.74,Recycle
+2025-02-22,Area C,Television,Repairable,12,5,42.34,Recycle
+2025-02-24,Area E,Battery,Repairable,5,5,4.53,Repair
+2025-02-26,Area B,Television,Damaged,4,1,8.53,Recycle
+2025-02-27,Area B,Charger,Repairable,9,8,1.27,Recycle
+2025-02-27,Area D,Laptop,Repairable,11,5,9.37,Recycle
+2025-02-28,Area E,Television,Repairable,9,5,37.4,Recycle
+2025-02-28,Area A,Battery,Damaged,9,8,7.18,Recycle
+2025-02-28,Area A,Charger,Repairable,6,4,0.71,Repair
+2025-03-02,Area A,Monitor,Repairable,1,3,13.25,Repair
+2025-03-05,Area B,Battery,Damaged,5,1,0.71,Recycle
+2025-03-06,Area E,Battery,Damaged,5,3,2.0,Recycle
+2025-03-07,Area B,Mobile Phone,Repairable,11,5,0.99,Recycle
+2025-03-07,Area A,Monitor,Repairable,1,1,3.82,Repair
+2025-03-08,Area C,Charger,Repairable,12,7,1.18,Recycle
+2025-03-09,Area B,Mobile Phone,Repairable,3,3,0.59,Repair
+2025-03-10,Area D,Battery,Damaged,4,4,3.47,Recycle
+2025-03-11,Area B,Battery,Damaged,3,8,6.55,Recycle
+2025-03-12,Area A,Monitor,Repairable,8,3,11.39,Repair
+2025-03-12,Area E,Charger,Working,9,5,0.83,Recycle
+2025-03-13,Area A,Television,Damaged,9,1,8.3,Recycle
+2025-03-14,Area C,Television,Working,8,2,14.55,Recycle
+2025-03-14,Area A,Charger,Damaged,7,1,0.18,Recycle
+2025-03-16,Area B,Laptop,Damaged,7,8,17.8,Recycle
+2025-03-16,Area D,Mobile Phone,Working,4,3,0.63,Reuse
+2025-03-17,Area A,Laptop,Repairable,8,4,7.41,Repair
+2025-03-18,Area E,Charger,Repairable,3,4,0.51,Repair
+2025-03-19,Area B,Laptop,Damaged,10,6,12.73,Recycle
+2025-03-23,Area C,Battery,Working,7,1,0.82,Recycle
+2025-03-23,Area C,Tablet,Working,10,5,2.1,Recycle
+2025-03-25,Area A,Laptop,Damaged,10,4,7.54,Recycle
+2025-03-25,Area D,Charger,Working,2,6,1.07,Reuse
+2025-03-26,Area E,Monitor,Repairable,12,8,36.21,Recycle
+2025-03-26,Area E,Laptop,Damaged,12,1,1.76,Recycle
+2025-03-30,Area C,Tablet,Damaged,2,4,1.74,Recycle
+2025-03-30,Area D,Tablet,Repairable,8,7,4.02,Repair
+2025-04-03,Area B,Monitor,Working,10,2,7.03,Recycle
+2025-04-03,Area C,Mobile Phone,Repairable,1,8,1.91,Repair
+2025-04-04,Area D,Charger,Working,12,3,0.41,Recycle
+2025-04-05,Area D,Monitor,Working,5,5,22.53,Reuse
+2025-04-05,Area E,Television,Damaged,7,3,27.77,Recycle
+2025-04-06,Area B,Tablet,Repairable,1,3,1.65,Repair
+2025-04-07,Area E,Television,Repairable,1,5,34.43,Repair
+2025-04-08,Area E,Mobile Phone,Repairable,12,4,0.96,Recycle
+2025-04-08,Area C,Monitor,Working,8,7,23.73,Recycle
+2025-04-08,Area B,Charger,Damaged,12,4,0.63,Recycle
+2025-04-08,Area E,Television,Damaged,12,1,7.78,Recycle
+2025-04-09,Area A,Tablet,Repairable,9,1,0.42,Recycle
+2025-04-10,Area D,Television,Working,11,2,18.02,Recycle
+2025-04-10,Area E,Laptop,Working,2,5,9.03,Reuse
+2025-04-10,Area B,Mobile Phone,Working,7,7,1.58,Recycle
+2025-04-12,Area E,Monitor,Damaged,1,4,17.34,Recycle
+2025-04-14,Area C,Tablet,Working,10,3,1.54,Recycle
+2025-04-14,Area E,Battery,Repairable,1,6,4.03,Repair
+2025-04-15,Area D,Mobile Phone,Working,10,2,0.44,Recycle
+2025-04-20,Area C,Battery,Repairable,3,1,0.92,Repair
+2025-04-21,Area D,Battery,Repairable,3,5,4.69,Repair
+2025-04-21,Area E,Mobile Phone,Repairable,6,3,0.72,Repair
+2025-04-22,Area C,Mobile Phone,Repairable,1,8,1.34,Repair
+2025-04-23,Area A,Television,Repairable,10,8,60.62,Recycle
+2025-04-23,Area B,Television,Damaged,10,1,8.81,Recycle
+2025-04-25,Area E,Tablet,Working,9,6,3.53,Recycle
+2025-04-27,Area C,Television,Working,12,3,21.37,Recycle
+2025-04-27,Area A,Mobile Phone,Working,10,3,0.59,Recycle
+2025-04-28,Area D,Charger,Damaged,11,2,0.34,Recycle
+2025-04-28,Area C,Charger,Damaged,6,2,0.32,Recycle
+2025-04-29,Area D,Tablet,Working,7,4,2.07,Recycle
+2025-04-29,Area A,Tablet,Working,4,8,3.94,Reuse
+2025-04-30,Area D,Battery,Repairable,9,4,3.43,Recycle
+2025-04-30,Area C,Mobile Phone,Damaged,7,7,1.42,Recycle
+2025-05-01,Area C,Laptop,Working,2,7,16.45,Reuse
+2025-05-01,Area B,Charger,Working,12,5,0.89,Recycle
+2025-05-03,Area A,Charger,Damaged,2,8,1.23,Recycle
+2025-05-04,Area B,Charger,Repairable,9,7,1.24,Recycle
+2025-05-05,Area C,Mobile Phone,Repairable,11,4,0.88,Recycle
+2025-05-05,Area C,Monitor,Working,11,7,26.65,Recycle
+2025-05-05,Area D,Tablet,Damaged,10,2,0.86,Recycle
+2025-05-06,Area B,Laptop,Repairable,7,7,12.58,Repair
+2025-05-10,Area E,Television,Damaged,10,3,22.99,Recycle
+2025-05-10,Area B,Mobile Phone,Repairable,6,4,0.82,Repair
+2025-05-10,Area A,Monitor,Working,2,3,12.4,Reuse
+2025-05-11,Area A,Battery,Working,3,3,2.21,Reuse
+2025-05-12,Area C,Charger,Working,11,7,1.21,Recycle
+2025-05-13,Area E,Mobile Phone,Working,11,2,0.35,Recycle
+2025-05-14,Area C,Monitor,Repairable,5,5,20.22,Repair
+2025-05-14,Area A,Battery,Repairable,4,4,3.54,Repair
+2025-05-16,Area A,Mobile Phone,Damaged,9,7,1.52,Recycle
+2025-05-16,Area A,Mobile Phone,Repairable,1,1,0.23,Repair
+2025-05-16,Area B,Charger,Damaged,3,3,0.43,Recycle
+2025-05-16,Area C,Charger,Working,5,5,0.68,Reuse
+2025-05-18,Area C,Television,Damaged,3,2,13.19,Recycle
+2025-05-22,Area D,Television,Working,3,8,68.59,Reuse
+2025-05-22,Area C,Mobile Phone,Repairable,10,7,1.37,Recycle
+2025-05-24,Area A,Laptop,Working,9,4,8.14,Recycle
+2025-05-24,Area D,Charger,Repairable,11,7,0.92,Recycle
+2025-05-24,Area D,Mobile Phone,Working,10,6,1.1,Recycle
+2025-05-26,Area B,Tablet,Working,12,2,1.1,Recycle
+2025-05-26,Area E,Monitor,Repairable,6,6,22.88,Repair
+2025-05-27,Area C,Tablet,Repairable,11,7,3.08,Recycle
+2025-05-29,Area E,Tablet,Damaged,8,7,3.12,Recycle
+2025-05-30,Area A,Mobile Phone,Working,12,3,0.63,Recycle
+2025-06-02,Area E,Television,Working,3,5,47.79,Reuse
+2025-06-06,Area B,Battery,Working,10,8,7.01,Recycle
+2025-06-08,Area B,Monitor,Damaged,4,8,38.2,Recycle
+2025-06-08,Area B,Monitor,Working,7,3,11.94,Recycle
+2025-06-08,Area A,Mobile Phone,Repairable,7,3,0.65,Repair
+2025-06-08,Area A,Monitor,Repairable,12,6,27.06,Recycle
+2025-06-09,Area A,Monitor,Repairable,8,1,3.89,Repair
+2025-06-10,Area D,Television,Damaged,3,5,45.55,Recycle
+2025-06-11,Area C,Monitor,Repairable,8,7,28.8,Repair
+2025-06-11,Area E,Battery,Repairable,7,1,0.81,Repair
+2025-06-11,Area A,Television,Damaged,7,1,6.67,Recycle
+2025-06-12,Area C,Battery,Damaged,2,8,6.54,Recycle
+2025-06-12,Area D,Laptop,Working,7,1,1.93,Recycle
+2025-06-12,Area B,Laptop,Repairable,11,3,5.33,Recycle
+2025-06-12,Area D,Television,Damaged,7,3,27.14,Recycle
+2025-06-14,Area C,Battery,Repairable,8,3,2.79,Repair
+2025-06-15,Area E,Monitor,Repairable,3,8,34.7,Repair
+2025-06-15,Area D,Charger,Damaged,11,4,0.72,Recycle
+2025-06-16,Area B,Mobile Phone,Working,9,8,1.55,Recycle
+2025-06-17,Area C,Tablet,Working,3,8,4.01,Reuse
+2025-06-17,Area A,Monitor,Damaged,3,6,22.2,Recycle
+2025-06-18,Area C,Laptop,Damaged,7,1,2.27,Recycle
+2025-06-21,Area A,Charger,Damaged,5,6,0.87,Recycle
+2025-06-21,Area A,Battery,Repairable,8,5,3.91,Repair
+2025-06-22,Area E,Television,Damaged,11,2,17.86,Recycle
+2025-06-22,Area A,Battery,Repairable,8,2,1.38,Repair
+2025-06-22,Area C,Battery,Repairable,8,3,2.54,Repair
+2025-06-22,Area B,Television,Working,8,6,43.61,Recycle
+2025-06-23,Area A,Battery,Damaged,2,4,3.36,Recycle
+2025-06-23,Area D,Tablet,Damaged,7,5,2.07,Recycle
+2025-06-23,Area B,Charger,Damaged,9,3,0.5,Recycle
+2025-06-24,Area E,Battery,Damaged,10,3,2.16,Recycle
+2025-06-24,Area B,Monitor,Repairable,7,1,3.92,Repair
+2025-06-27,Area B,Charger,Repairable,7,2,0.27,Repair
+2025-06-28,Area C,Tablet,Damaged,6,1,0.54,Recycle
+2025-06-29,Area D,Battery,Damaged,12,5,3.44,Recycle
+2025-06-29,Area E,Battery,Repairable,2,2,1.81,Repair
+2025-06-29,Area C,Laptop,Repairable,11,3,6.03,Recycle
+2025-07-01,Area E,Battery,Damaged,6,8,6.46,Recycle
+2025-07-01,Area A,Television,Working,12,5,37.08,Recycle
+2025-07-04,Area A,Television,Repairable,3,6,50.26,Repair
+2025-07-07,Area A,Laptop,Working,4,3,6.55,Reuse
+2025-07-08,Area B,Charger,Damaged,3,6,0.78,Recycle
+2025-07-08,Area D,Battery,Damaged,5,3,2.52,Recycle
+2025-07-09,Area D,Tablet,Working,5,3,1.59,Reuse
+2025-07-10,Area A,Laptop,Repairable,12,4,8.12,Recycle
+2025-07-11,Area D,Laptop,Working,4,4,6.95,Reuse
+2025-07-12,Area C,Battery,Damaged,7,4,3.4,Recycle
+2025-07-12,Area E,Monitor,Damaged,5,8,33.46,Recycle
+2025-07-13,Area A,Mobile Phone,Repairable,12,6,1.01,Recycle
+2025-07-13,Area C,Battery,Damaged,3,1,0.93,Recycle
+2025-07-14,Area B,Tablet,Working,5,2,1.05,Reuse
+2025-07-14,Area E,Tablet,Damaged,4,7,2.88,Recycle
+2025-07-15,Area D,Television,Damaged,12,1,8.18,Recycle
+2025-07-15,Area A,Mobile Phone,Working,3,8,1.35,Reuse
+2025-07-17,Area E,Mobile Phone,Working,12,1,0.22,Recycle
+2025-07-18,Area B,Tablet,Working,3,5,2.99,Reuse
+2025-07-18,Area A,Television,Working,4,5,44.02,Reuse
+2025-07-19,Area D,Battery,Working,11,7,6.25,Recycle
+2025-07-20,Area E,Laptop,Damaged,9,3,4.9,Recycle
+2025-07-22,Area A,Charger,Damaged,5,4,0.62,Recycle
+2025-07-22,Area A,Television,Repairable,8,1,7.98,Repair
+2025-07-23,Area C,Laptop,Working,7,8,16.6,Recycle
+2025-07-23,Area B,Charger,Damaged,1,1,0.13,Recycle
+2025-07-23,Area D,Television,Repairable,6,5,37.62,Repair
+2025-07-24,Area E,Laptop,Damaged,5,4,7.74,Recycle
+2025-07-24,Area E,Battery,Repairable,4,1,0.94,Repair
+2025-07-24,Area C,Television,Repairable,11,2,17.22,Recycle
+2025-07-25,Area E,Charger,Damaged,8,4,0.7,Recycle
+2025-07-26,Area B,Television,Repairable,10,6,56.05,Recycle
+2025-07-26,Area B,Laptop,Repairable,7,7,15.78,Repair
+2025-07-27,Area D,Laptop,Damaged,9,7,15.47,Recycle
+2025-07-27,Area A,Battery,Repairable,7,1,0.65,Repair
+2025-07-27,Area B,Charger,Working,6,3,0.4,Recycle
+2025-07-28,Area A,Charger,Damaged,8,3,0.39,Recycle
+2025-07-28,Area A,Monitor,Damaged,4,2,6.74,Recycle
+2025-07-29,Area C,Charger,Damaged,8,8,1.28,Recycle
+2025-07-29,Area B,Charger,Repairable,4,4,0.49,Repair
+2025-07-30,Area E,Laptop,Repairable,3,4,7.98,Repair
+2025-08-02,Area B,Mobile Phone,Repairable,1,7,1.26,Repair
+2025-08-02,Area E,Battery,Damaged,12,5,3.49,Recycle
+2025-08-03,Area A,Monitor,Damaged,5,2,9.09,Recycle
+2025-08-04,Area E,Television,Damaged,1,8,75.73,Recycle
+2025-08-04,Area A,Television,Damaged,2,1,7.83,Recycle
+2025-08-04,Area C,Television,Damaged,12,1,9.33,Recycle
+2025-08-04,Area B,Laptop,Repairable,2,6,13.57,Repair
+2025-08-05,Area C,Television,Damaged,2,1,7.29,Recycle
+2025-08-05,Area A,Monitor,Repairable,7,1,3.73,Repair
+2025-08-07,Area E,Tablet,Working,1,5,2.63,Reuse
+2025-08-08,Area E,Tablet,Working,5,6,2.78,Reuse
+2025-08-08,Area C,Battery,Damaged,2,6,5.36,Recycle
+2025-08-09,Area D,Charger,Working,4,1,0.15,Reuse
+2025-08-10,Area A,Tablet,Repairable,3,4,1.78,Repair
+2025-08-10,Area D,Mobile Phone,Damaged,7,1,0.17,Recycle
+2025-08-10,Area C,Mobile Phone,Repairable,2,8,1.57,Repair
+2025-08-11,Area A,Laptop,Damaged,5,2,4.45,Recycle
+2025-08-11,Area C,Laptop,Working,8,2,4.72,Recycle
+2025-08-11,Area C,Charger,Damaged,6,1,0.14,Recycle
+2025-08-13,Area C,Television,Working,2,1,9.44,Reuse
+2025-08-13,Area D,Mobile Phone,Working,1,4,0.79,Reuse
+2025-08-14,Area D,Mobile Phone,Damaged,6,4,0.82,Recycle
+2025-08-18,Area B,Charger,Repairable,9,6,0.86,Recycle
+2025-08-19,Area E,Monitor,Working,3,8,34.22,Reuse
+2025-08-20,Area A,Television,Damaged,7,3,22.11,Recycle
+2025-08-23,Area C,Tablet,Damaged,2,7,3.25,Recycle
+2025-08-24,Area C,Tablet,Working,5,4,2.15,Reuse
+2025-08-25,Area D,Tablet,Damaged,12,8,4.28,Recycle
+2025-08-26,Area B,Laptop,Working,1,2,3.34,Reuse
+2025-08-26,Area E,Mobile Phone,Repairable,4,3,0.65,Repair
+2025-08-26,Area C,Tablet,Working,1,8,3.94,Reuse
+2025-08-27,Area A,Television,Working,8,6,48.63,Recycle
+2025-08-27,Area B,Laptop,Damaged,12,5,10.66,Recycle
+2025-08-28,Area E,Television,Working,12,1,6.87,Recycle
+2025-08-29,Area D,Monitor,Damaged,12,8,29.88,Recycle
+2025-08-29,Area B,Monitor,Repairable,1,3,10.05,Repair
+2025-08-30,Area D,Laptop,Damaged,3,4,7.31,Recycle
+2025-08-30,Area A,Charger,Damaged,9,1,0.15,Recycle
+2025-08-31,Area A,Laptop,Repairable,3,8,16.7,Repair
+2025-08-31,Area C,Laptop,Repairable,2,7,13.09,Repair
+2025-08-31,Area A,Mobile Phone,Repairable,8,1,0.16,Repair
+2025-09-01,Area C,Laptop,Working,3,8,14.58,Reuse
+2025-09-01,Area A,Mobile Phone,Damaged,3,1,0.18,Recycle
+2025-09-03,Area B,Tablet,Damaged,12,5,2.16,Recycle
+2025-09-05,Area E,Charger,Repairable,12,2,0.25,Recycle
+2025-09-06,Area C,Television,Repairable,5,1,8.79,Repair
+2025-09-06,Area B,Monitor,Repairable,10,1,4.05,Recycle
+2025-09-07,Area B,Television,Working,3,3,19.69,Reuse
+2025-09-08,Area A,Tablet,Working,4,3,1.57,Reuse
+2025-09-09,Area D,Laptop,Damaged,6,8,14.92,Recycle
+2025-09-10,Area A,Laptop,Working,2,3,6.43,Reuse
+2025-09-10,Area A,Charger,Working,1,1,0.16,Reuse
+2025-09-11,Area C,Charger,Working,5,8,1.09,Reuse
+2025-09-12,Area C,Mobile Phone,Working,3,3,0.54,Reuse
+2025-09-13,Area E,Monitor,Working,2,4,18.05,Reuse
+2025-09-13,Area B,Charger,Damaged,2,1,0.15,Recycle
+2025-09-14,Area C,Battery,Working,7,6,5.59,Recycle
+2025-09-15,Area D,Mobile Phone,Working,10,3,0.57,Recycle
+2025-09-16,Area D,Tablet,Working,7,8,4.42,Recycle
+2025-09-17,Area B,Laptop,Working,6,7,16.31,Recycle
+2025-09-17,Area C,Mobile Phone,Repairable,2,3,0.61,Repair
+2025-09-18,Area D,Laptop,Damaged,8,4,8.8,Recycle
+2025-09-18,Area A,Laptop,Damaged,10,8,15.98,Recycle
+2025-09-19,Area E,Monitor,Working,9,8,28.77,Recycle
+2025-09-19,Area E,Monitor,Damaged,5,6,24.84,Recycle
+2025-09-21,Area A,Battery,Working,10,2,1.4,Recycle
+2025-09-23,Area C,Mobile Phone,Repairable,10,3,0.59,Recycle
+2025-09-26,Area C,Tablet,Working,11,7,4.2,Recycle
+2025-09-26,Area B,Tablet,Repairable,8,2,1.19,Repair
+2025-10-01,Area A,Charger,Working,4,5,0.77,Reuse
+2025-10-01,Area E,Mobile Phone,Repairable,7,7,1.13,Repair
+2025-10-03,Area C,Battery,Damaged,6,7,6.58,Recycle
+2025-10-06,Area A,Charger,Repairable,5,3,0.4,Repair
+2025-10-09,Area E,Mobile Phone,Repairable,12,3,0.66,Recycle
+2025-10-11,Area D,Monitor,Damaged,7,4,17.26,Recycle
+2025-10-11,Area A,Television,Repairable,5,8,57.78,Repair
+2025-10-13,Area B,Television,Working,8,3,28.18,Recycle
+2025-10-13,Area B,Television,Repairable,3,7,65.39,Repair
+2025-10-13,Area C,Monitor,Working,5,3,12.95,Reuse
+2025-10-14,Area D,Mobile Phone,Repairable,2,2,0.38,Repair
+2025-10-15,Area D,Television,Repairable,12,3,26.07,Recycle
+2025-10-15,Area E,Television,Working,10,8,59.28,Recycle
+2025-10-17,Area A,Laptop,Damaged,3,1,2.25,Recycle
+2025-10-18,Area B,Charger,Repairable,7,5,0.71,Repair
+2025-10-18,Area B,Monitor,Damaged,3,8,36.91,Recycle
+2025-10-20,Area A,Battery,Repairable,11,4,2.72,Recycle
+2025-10-21,Area E,Television,Damaged,3,1,9.03,Recycle
+2025-10-21,Area A,Mobile Phone,Repairable,4,2,0.46,Repair
+2025-10-23,Area E,Battery,Repairable,1,3,2.27,Repair
+2025-10-23,Area B,Monitor,Damaged,9,7,31.67,Recycle
+2025-10-26,Area E,Monitor,Repairable,12,6,25.61,Recycle
+2025-10-31,Area B,Laptop,Working,3,3,5.78,Reuse
+2025-10-31,Area C,Television,Working,6,1,9.36,Recycle
+2025-10-31,Area D,Charger,Working,5,4,0.57,Reuse
+2025-11-01,Area A,Charger,Working,2,8,1.27,Reuse
+2025-11-02,Area D,Monitor,Damaged,3,6,26.22,Recycle
+2025-11-03,Area C,Laptop,Damaged,10,1,1.96,Recycle
+2025-11-04,Area D,Tablet,Repairable,9,7,2.94,Recycle
+2025-11-04,Area D,Battery,Working,8,5,4.32,Recycle
+2025-11-05,Area A,Tablet,Damaged,6,2,1.15,Recycle
+2025-11-05,Area B,Charger,Repairable,2,1,0.16,Repair
+2025-11-07,Area D,Tablet,Repairable,7,1,0.53,Repair
+2025-11-07,Area B,Charger,Repairable,1,7,0.94,Repair
+2025-11-07,Area C,Battery,Working,1,3,2.33,Reuse
+2025-11-07,Area E,Laptop,Working,7,5,8.97,Recycle
+2025-11-08,Area D,Charger,Repairable,10,3,0.38,Recycle
+2025-11-08,Area E,Television,Damaged,4,2,16.79,Recycle
+2025-11-09,Area D,Charger,Working,12,6,0.82,Recycle
+2025-11-09,Area A,Mobile Phone,Repairable,6,8,1.45,Repair
+2025-11-11,Area C,Mobile Phone,Repairable,6,8,1.82,Repair
+2025-11-11,Area D,Charger,Repairable,8,7,0.98,Repair
+2025-11-13,Area A,Mobile Phone,Repairable,3,6,0.98,Repair
+2025-11-13,Area A,Laptop,Repairable,5,2,3.43,Repair
+2025-11-14,Area A,Laptop,Working,8,3,5.24,Recycle
+2025-11-15,Area B,Battery,Repairable,1,1,0.73,Repair
+2025-11-15,Area A,Monitor,Damaged,11,2,7.0,Recycle
+2025-11-15,Area A,Tablet,Working,10,1,0.42,Recycle
+2025-11-15,Area E,Charger,Repairable,6,7,0.89,Repair
+2025-11-15,Area D,Tablet,Damaged,5,2,1.09,Recycle
+2025-11-16,Area A,Monitor,Damaged,1,7,30.68,Recycle
+2025-11-16,Area C,Charger,Damaged,10,6,0.73,Recycle
+2025-11-17,Area A,Monitor,Working,9,7,22.54,Recycle
+2025-11-18,Area D,Mobile Phone,Repairable,2,8,1.6,Repair
+2025-11-22,Area C,Battery,Damaged,3,7,6.64,Recycle
+2025-11-23,Area B,Charger,Working,3,3,0.47,Reuse
+2025-11-24,Area D,Tablet,Damaged,12,8,4.22,Recycle
+2025-11-24,Area A,Tablet,Working,6,6,2.96,Recycle
+2025-11-24,Area D,Laptop,Damaged,8,1,1.71,Recycle
+2025-11-26,Area C,Battery,Working,9,1,0.65,Recycle
+2025-11-27,Area B,Tablet,Damaged,1,1,0.4,Recycle
+2025-11-27,Area C,Television,Repairable,10,5,41.2,Recycle
+2025-11-28,Area E,Monitor,Working,5,4,18.4,Reuse
+2025-11-29,Area C,Television,Working,8,2,13.21,Recycle
+2025-12-01,Area C,Television,Damaged,11,3,23.73,Recycle
+2025-12-01,Area C,Mobile Phone,Working,6,1,0.22,Recycle
+2025-12-02,Area B,Laptop,Working,2,7,13.33,Reuse
+2025-12-02,Area E,Television,Damaged,5,5,36.73,Recycle
+2025-12-02,Area D,Battery,Repairable,7,6,5.11,Repair
+2025-12-02,Area A,Tablet,Working,9,8,3.93,Recycle
+2025-12-03,Area D,Monitor,Repairable,9,3,14.01,Recycle
+2025-12-03,Area C,Laptop,Working,5,1,1.6,Reuse
+2025-12-04,Area E,Charger,Damaged,3,8,1.03,Recycle
+2025-12-04,Area A,Television,Working,9,2,18.88,Recycle
+2025-12-05,Area B,Monitor,Repairable,1,7,24.43,Repair
+2025-12-07,Area E,Mobile Phone,Damaged,7,7,1.16,Recycle
+2025-12-07,Area E,Mobile Phone,Damaged,6,1,0.17,Recycle
+2025-12-08,Area A,Monitor,Repairable,11,5,20.74,Recycle
+2025-12-08,Area B,Charger,Working,1,5,0.77,Reuse
+2025-12-09,Area E,Television,Working,8,8,57.15,Recycle
+2025-12-09,Area D,Battery,Repairable,5,4,3.69,Repair
+2025-12-09,Area E,Television,Working,1,4,29.22,Reuse
+2025-12-10,Area D,Mobile Phone,Damaged,10,1,0.21,Recycle
+2025-12-11,Area E,Monitor,Damaged,8,8,33.23,Recycle
+2025-12-12,Area B,Television,Damaged,9,3,26.75,Recycle
+2025-12-13,Area B,Monitor,Repairable,4,8,27.75,Repair
+2025-12-14,Area C,Tablet,Working,4,8,4.76,Reuse
+2025-12-17,Area D,Monitor,Working,8,6,24.47,Recycle
+2025-12-19,Area E,Charger,Working,7,6,0.9,Recycle
+2025-12-20,Area C,Laptop,Damaged,1,6,12.09,Recycle
+2025-12-22,Area E,Battery,Repairable,12,7,5.99,Recycle
+2025-12-24,Area D,Monitor,Working,5,5,19.93,Reuse
+2025-12-25,Area A,Television,Damaged,5,1,7.06,Recycle
+2025-12-26,Area A,Mobile Phone,Repairable,7,2,0.4,Repair
+2025-12-26,Area E,Charger,Working,6,7,1.17,Recycle
+2025-12-28,Area D,Television,Repairable,5,3,25.96,Repair
+2025-12-29,Area D,Laptop,Repairable,12,4,8.38,Recycle
+2025-12-29,Area D,Laptop,Working,7,1,2.3,Recycle
+2025-12-30,Area E,Tablet,Repairable,6,4,2.4,Repair
